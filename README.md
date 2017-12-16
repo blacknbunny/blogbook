@@ -14,11 +14,6 @@ Blogbook [bir bootstrap](https://startbootstrap.com/template-overviews/freelance
 
 ------
 
-## Burayı kod içinde mongodb url'niz ile değiştiriniz.
-##### mongoose.connect('mongourl');
-
-------
-
 ## İndirip başlatmak için :
 
   `git clone https://github.com/0DAYanc/blogbook.git`
